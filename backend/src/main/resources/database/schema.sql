@@ -1,3 +1,6 @@
+-- Create Database
+CREATE DATABASE IF NOT EXISTS cafe_management;
+
 USE cafe_management;
 -- Create Tables
 
